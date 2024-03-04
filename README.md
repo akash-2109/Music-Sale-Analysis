@@ -14,12 +14,14 @@ Visualization: PowerBI is employed to create interactive visualizations, includi
 PostgreSQL database to store the music playlist dataset.
 Utilize PgAdmin4 for database administration and management.
 Imported the dataset into the PostgreSQL database.
+
 2. SQL Analysis:
 
 Developed SQL queries to perform in-depth analysis of the dataset.
 Analyzed sales data, including total sales over time and best-selling tracks.
 Explored revenue by genre to identify popular music genres among customers.
 Examined customer demographics to understand the distribution of customers based on location and spending behavior.
+
 3. PowerBI Visualization:
 
 Connected PowerBI to the PostgreSQL database containing the analyzed data.
